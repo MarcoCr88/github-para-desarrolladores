@@ -2,4 +2,4 @@
 
 gothub para desarrolladores
 
-[Visita mi Blog] http://www.google.com.mx)
+[Visita mi Blog] (http://www.google.com.mx)
